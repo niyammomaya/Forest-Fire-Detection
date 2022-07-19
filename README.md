@@ -1,5 +1,5 @@
 # Forest-Fire-Detection
-This project demonstrates the detection of forest fires using CNN. 
+This project demonstrates the detection of forest fires using CNN and Image Processing concepts. 
 
 We use a Inception V3 CNN network as it achieves better accuracy and can compute results quicker compared to other CNN networks.
 
